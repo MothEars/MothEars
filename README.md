@@ -22,6 +22,7 @@ Applied statistical modelling project covering mixed-effects models, generalized
 - Machine learning
 - Reinforcement learning
 - Deep learning
+- Artifical intelligence
 
 **Tools:**
 - RStudio
