@@ -19,8 +19,8 @@ Applied statistical modelling project covering mixed-effects models, generalized
 **Statistics & Data Science:**
 - Statistical modelling and inference
 - Experimental design
-- Statistical inference
 - Machine learning
+- Reinforcement learning
 - Deep learning
 
 **Tools:**
