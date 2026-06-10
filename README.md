@@ -6,10 +6,10 @@ Alongside my studies, I have worked as a casual academic and contributed to univ
 
 ## Featured Projects
 
-### Cane Toad vs Eastern Banjo Frog Object Detection 
+### [Cane Toad vs Eastern Banjo Frog Object Detection](https://github.com/MothEars/Object_Detection_Deep_Learning_Project)
 Deep learning object detection project using computer vision techniques to distinguish cane toads and eastern banjo frogs.
 
-### Advanced Statistical Modelling in R 
+### [Advanced Statistical Modelling in R](https://github.com/MothEars/Advanced-Statistical-Modelling) 
 Applied statistical modelling project covering mixed-effects models, generalized linear mixed models, hierarchical data analysis, and experimental design.
 
 ## Technical Skills
