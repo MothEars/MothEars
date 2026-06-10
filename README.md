@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is Cara Fernandes. I completed a Graduate Diploma in Applied Statistics (2024) at the University of New England and currently completing a Master of Data Science (expected 2026). My interests are in deep learning, statistical modelling, machine learning, and applied analytics.
+My name is Cara Fernandes. I completed a Graduate Diploma in Applied Statistics (2024) at the University of New England and am currently completing a Master of Data Science (expected 2026). My interests are in deep learning, statistical modelling, machine learning, and applied analytics.
 
 Alongside my studies, I have worked as a casual academic and contributed to university teaching and academic support within statistics and data science units.
 
