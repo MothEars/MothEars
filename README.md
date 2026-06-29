@@ -14,7 +14,7 @@ Applied statistical modelling project covering mixed-effects models, generalized
 
 ## Technical Skills
 
-**Languages:** R, Python 
+**Languages:** R, Python, Spark, C, Bash
 
 **Statistics & Data Science:**
 - Statistical modelling and inference
