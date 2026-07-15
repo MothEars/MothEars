@@ -27,4 +27,4 @@ Applied statistical modelling project covering mixed-effects models, generalized
 **Tools:**
 - RStudio
 - Jupyter Notebooks
-- Git/GitHub
+- Git/GitHub/GitLabs
